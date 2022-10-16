@@ -29,6 +29,10 @@ a:checked a:visited {
   stroke: #99e9f2;
 }
 
+.goals > div > div > div:last-child {
+  border-bottom: 1px solid #e7e7e7;
+}
+
 .timeline > div > div > div:last-child {
   border-bottom: 1px dashed #99e9f2;
 }
